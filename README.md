@@ -104,12 +104,12 @@ If you have your table data in a database which you can access using a library w
 
 ```python
 import sqlite3
-from veryprettytable import from_cursor
+from veryprettytable import from_db_cursor
 
 connection = sqlite3.connect("mydb.db")
 cursor = connection.cursor()
 cursor.execute("SELECT field1, field2, field3 FROM my_table")
-mytable = from_cursor(cursor)
+mytable = from_db_cursor(cursor)
 ```
 
 == Getting data out ==
