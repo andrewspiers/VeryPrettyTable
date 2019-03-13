@@ -1,7 +1,7 @@
 VeryPrettyTable
 ===========
 
-[![Build Status](https://secure.travis-ci.org/smeggingsmegger/VeryPrettyTable.png)](https://travis-ci.org/smeggingsmegger/VeryPrettyTable)
+[![Build Status](https://secure.travis-ci.org/andrewspiers/VeryPrettyTable.png)](https://travis-ci.org/andrewspiers/VeryPrettyTable)
 
 This is a fork of the excellent project (PrettyTable) by Luke Maurits.
 
