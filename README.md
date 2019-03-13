@@ -27,9 +27,14 @@ VeryPrettyTable can also generate HTML code with the data in a table structure. 
 
 The "featured Wiki articles" in the green box to your right should contain enough information to get you started.
 
-If you find VeryPrettyTable useful, and especially if you use VeryPrettyTable as part of your business or to otherwise make money, please consider making a completely voluntary donation to show your appreciation and encourage future work on the project, using the PayPal button on his website:
 
-https://code.google.com/p/prettytable/
+------------------------------------------------------------------------------
+## Installation
+via pipenv:
+```
+pipenv install git+https://github.com/andrewspiers/VeryPrettyTable.git@v0.1.0#egg=veryprettytable
+```
+
 
 ------------------------------------------------------------------------------
 
